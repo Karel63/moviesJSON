@@ -1,1 +1,10 @@
-{"movies": {"movie": {"id": "1", "name": "Super Movie", "year": "1998", "genres": {"genre":{"id": "1", "name": "adventure"}, "genre":{"id": "2", "name": "action"}, "country": {"id": "1", "name": "USA"}}}}}}
+{"movies": 
+    {"movie": 
+        {"id": "1", "name": "Super Movie", "year": "1998", "genres": 
+            {"genres":
+                {"id": "1", "name": "adventure"}, "genre": {"id": "2", "name": "action"}
+            },
+            "country": {"id": "1", "name": "USA"}
+        }
+    }
+}
