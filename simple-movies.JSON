@@ -1,10 +1,17 @@
-{"movies": 
-    {"movie": 
-        {"id": "1", "name": "Super Movie", "year": "1998", "genres": 
-            {"genres":
-                {"id": "1", "name": "adventure"}, "genre": {"id": "2", "name": "action"}
-            },
-            "country": {"id": "1", "name": "USA"}
+{
+    "movies": 
+    [
+        {
+            "name": "Bad Black", 
+            "year": "2016", 
+            "genres": ["Action", "Comedy"], 
+            "country": "Uganda"
+        },
+        {
+            "name": "Treasure Planet", 
+            "year": "1982", 
+            "genres": ["Animation", "Sci-fi"], 
+            "country": "Bulgaria"
         }
-    }
+    ]
 }
